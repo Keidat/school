@@ -1,8 +1,12 @@
 export const episodes = [
     {
         title: "1화의 제목이 표시됩니다.",
-        content: `1화의 내용이 표시됩니다.`
-    },
+        content: `1화의 내용이 표시됩니다.
+예시<code>코드</code>내용
+<div class='code-block'>예시 코드 블록
+</div>
+<div class='discord-small'>작은 글씨</div>
+`},
     {
         title: "2화의 제목이 표시됩니다.",
         content: `2화의 내용이 표시됩니다.`
